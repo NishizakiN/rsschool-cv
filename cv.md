@@ -1,18 +1,18 @@
-#Son Anastasiia CV
-ayenishizaki@gmail.com; GitHub: NishizakiN
+# Son Anastasiia CV
+## ayenishizaki@gmail.com; GitHub: NishizakiN
 
 //photo
 ![alt-text](address 'name')
 
-*//self introduction*
+* //self introduction*
 
 
-#Skills
-*Soft Skills:
-*Other Skills:
+# Skills
+* Soft Skills:
+* Other Skills:
 
 
-#Code examples
+# Code examples
 //many lines
 '''
 $a = 5;
@@ -23,10 +23,10 @@ $c = $a + $b;
 //one line
 'echo $c;'
 
-#Work Experience
+# Work Experience
 
 
-#Education
+# Education
 
 
-#Language proficiency
+# Language proficiency
