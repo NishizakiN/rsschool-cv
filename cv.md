@@ -1,7 +1,5 @@
 # Son Anastasiia CV
 
-=====
-
 ## Contact information:
 * **E-mail:** ayenishizaki@gmail.com; 
 * **Phone:** +82 010 76179566
@@ -19,7 +17,6 @@ I consider myself rather adept at problem solving and good with interpersonal co
 * Git
 * JavaScript (Basic)
 
-===
 
 ## Code example:
 **Reverse Strings KATA from Codewars:** *Complete the solution so that it reverses the string passed into it.*
@@ -33,14 +30,10 @@ function solution(str){
 }
 ```
 
-===
-
 ## Courses:
 * RS Schools Course "JavaScript/Front-end" (in progress)
 * cs50 (in progress)
 * Technical Support Fundamentals (through Coursera)
-
-===
 
 ## Language proficiency
 * Russian - native
